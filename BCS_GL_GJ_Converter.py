@@ -2,7 +2,7 @@ import os
 from tkinter import *
 from datetime import datetime
 from openpyxl import Workbook
-
+ 
 # Specify the path of the GL files, in this case the Input and Output folder in Conver GL folder
 GL_input_path_folder = os.path.join(os.path.expanduser("~"), "OneDrive - Bayer", "Desktop", "BCS File Converter", "GL Input Folder")
 GL_output_path_folder = os.path.join(os.path.expanduser("~"), "OneDrive - Bayer", "Desktop", "BCS File Converter", "GL Output Folder")
