@@ -17,4 +17,5 @@ def dynamic_yymm(start_year, end_year):
 
 mm_yy = dynamic_yymm(2022, 2041)
 
+print("hello world!")
 print(mm_yy)
